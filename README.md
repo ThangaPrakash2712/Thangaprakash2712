@@ -57,13 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Thangaprakash2712&show_icons=true&theme=tokyonight&hide_border=true" alt="Prakash's GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thangaprakash2712&theme=tokyonight&hide_border=true" alt="Prakash's Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangaprakash2712&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 ---
 
 <p align="center">
