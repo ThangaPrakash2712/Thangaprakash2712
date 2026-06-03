@@ -40,44 +40,14 @@
 
 ---
 
-## ⚡ Competitive Programming
-
-- Solving algorithmic problems daily
-- Strong focus on DSA and interview preparation
-- Contributing editorial solutions across multiple languages
-- Actively participating in coding contests
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,react,tailwind,html,css,git,vscode,github" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,github" />
-</p>
-
----
-
-## 📈 LeetCode Statistics
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/thangaprakash2005?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -89,17 +59,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangaprakash2712&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🌱 Current Focus
-
-```text
-📚 DSA & Competitive Programming
-⚛️ React + Tailwind Projects
-🤖 AI Applications
-☁️ Backend Development
-```
 
 ---
 
