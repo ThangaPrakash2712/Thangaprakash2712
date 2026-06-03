@@ -9,21 +9,19 @@
 ---
 
 - 🎓 CS student working toward **high-compensation campus placements**
-- 💻 Currently deep in **DSA (Java)** — patterns, two pointers, heaps, hashmaps & beyond
-- 🧱 Building production-grade apps — recently shipped **LabFlow**, a full React + Tailwind medical lab workflow system
+- 💻 Currently deep in **DSA (Java)** 
 - ✍️ Contributing **multi-language editorials** on LeetCode (Java, C++, Python, JavaScript)
-- 🎯 Goal: Master DSA patterns + crack top-tier placement interviews
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **thangaprakash1205@gmail.com**
 
 ---
 
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://leetcode.com/u/thangaprakash2005/" target="_blank">
+  <a href="https://www.linkedin.com/in/thanga-prakash-k-96426b323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yourprofile" target="_blank">
+  <a href="https://leetcode.com/u/thangaprakash2005/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/yourprofile" target="_blank">
@@ -56,25 +54,16 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Prakash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thangaprakash2712&show_icons=true&theme=tokyonight&hide_border=true" alt="Prakash's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Prakash's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thangaprakash2712&theme=tokyonight&hide_border=true" alt="Prakash's Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangaprakash2712&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-### 🧩 LeetCode Stats:
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
 ---
 
 <p align="center">
