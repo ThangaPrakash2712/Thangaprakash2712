@@ -17,11 +17,6 @@
 - Full Stack Web Development
 - AI-powered Applications
 
-✍️ Writing and contributing **multi-language LeetCode editorials** (Java, C++, Python, JavaScript).
-
-🎯 Goal:
-Secure high-impact Software Engineering opportunities while continuously improving problem-solving and system design skills.
-
 📫 Reach me at:
 **thangaprakash1205@gmail.com**
 
