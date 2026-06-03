@@ -51,14 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thangaprakash2712&show_icons=true&theme=tokyonight&hide_border=true" alt="Prakash's GitHub Stats" />
-</p>
-
----
-
 <p align="center">
-  <i>"Consistency compounds. One pattern at a time."</i>
+  <i>"Miles to go before i sleep"</i>
 </p>
